@@ -1,4 +1,15 @@
 
+---
+title: Flutter Code Generator
+emoji: 💻
+colorFrom: indigo
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.18.1"
+app_file: app.py
+pinned: false
+---
+
 # Flutter Code Generator - Hugging Face Space
 
 This project leverages Transformers and Hugging Face's Spaces to generate Flutter code based on user prompts. It is designed to simplify Flutter development by providing intelligent suggestions for UI and functionality implementations.
